@@ -25,5 +25,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su0797&layout=donut&show_icons=true&theme=dracula&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=su0797&show_icons=true&theme=dracula&hide_border=true&count_private=true" width=57% />
+  <img src="https://github-readme-stats.vercel.app/api?username=su0797&show_icons=true&theme=dracula&hide_border=true&count_private=true" width=56% />
 </a>
