@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ... 
 -->
 [![Github](https://www.codenary.co.kr/widget/github/api?username=사수봉)](https://www.codenary.co.kr/user-profile/detail/사수봉?github_ride=true&utm_source=github)
-![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![django](https://www.codenary.co.kr/widget/github-techstack/api?name=django) 
+<!--![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![django](https://www.codenary.co.kr/widget/github-techstack/api?name=django)-->
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su0797&layout=donut&show_icons=true&theme=dracula&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
